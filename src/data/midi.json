@@ -1,0 +1,44 @@
+{
+  "voices": [
+    [
+      null, null, null, null, null, null, null, null,
+      null, null, null, null, null, null, 77, 77,
+      77, 77
+    ],
+    [
+      70, 69, 60, 70, 69, 60, 70, 69, 
+      60, 70, 69, 74, 72, 72, 70, 69,
+      60, null
+    ],
+    [
+      null, null, null, 62, 62, 62, 65, 62,
+      53, 57, 60, 58, 58, 58, 62, 60,
+      60, null
+    ],
+    [
+      null, null, null, null, 60, 58, 62, 60,
+      62, 62, 64, 65, 64, 62, 60, 62,
+      60, null
+    ],
+    [
+      null, null, null, null, null, null, null, null,
+      null, 65, 62, 69, 69, 69, 69, 65,
+      72, null
+    ],
+    [
+      null, null, null, null, null, null, null, null,
+      null, null, null, 55, 55, 53, 53, 53,
+      null, null
+    ],
+    [
+      null, null, null, null, null, null, null, null,
+      null, null, null, null, null, null, 46, 50,
+      null, null
+    ],
+    [
+      null, null, null, null, null, null, null, 53,
+      46, 43, 41, 39, 46, 46, 41, 41,
+      48, null
+    ]
+  ]
+}
