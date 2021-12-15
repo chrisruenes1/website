@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "96c0e1aa2dfb8c4405b2",
+    "revision": "be9bca2b05c4a4b2622d",
     "url": "/static/css/main.afe529cb.chunk.css"
   },
   {
-    "revision": "96c0e1aa2dfb8c4405b2",
-    "url": "/static/js/main.96c0e1aa.chunk.js"
+    "revision": "be9bca2b05c4a4b2622d",
+    "url": "/static/js/main.be9bca2b.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/static/media/tumbling-4.70769886.mp3"
   },
   {
-    "revision": "c31b78de2c16b5ddbcfa1993b4ae5c78",
+    "revision": "f81a639327ad1dbee09265bea301b182",
     "url": "/index.html"
   }
 ];
